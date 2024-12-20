@@ -1,4 +1,4 @@
-# [Silver IV] 덱 2 - 28279 
+# [Silver IV] 덱 2 - 28279 ★★☆☆☆
 
 [문제 링크](https://www.acmicpc.net/problem/28279) 
 
